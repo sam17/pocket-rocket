@@ -1,0 +1,19 @@
+D:\Owner\Desktop\VB.NET\learning\Pocket Rockets\Pocket Rockets\Bin\Debug\Assets\ApplicationIcon.png
+D:\Owner\Desktop\VB.NET\learning\Pocket Rockets\Pocket Rockets\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+D:\Owner\Desktop\VB.NET\learning\Pocket Rockets\Pocket Rockets\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+D:\Owner\Desktop\VB.NET\learning\Pocket Rockets\Pocket Rockets\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+D:\Owner\Desktop\VB.NET\learning\Pocket Rockets\Pocket Rockets\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+D:\Owner\Desktop\VB.NET\learning\Pocket Rockets\Pocket Rockets\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+D:\Owner\Desktop\VB.NET\learning\Pocket Rockets\Pocket Rockets\Bin\Debug\Pocket Rockets.dll
+D:\Owner\Desktop\VB.NET\learning\Pocket Rockets\Pocket Rockets\Bin\Debug\Pocket Rockets.pdb
+D:\Owner\Desktop\VB.NET\learning\Pocket Rockets\Pocket Rockets\Bin\Debug\AppManifest.xaml
+D:\Owner\Desktop\VB.NET\learning\Pocket Rockets\Pocket Rockets\Bin\Debug\Pocket_Rockets_Debug_AnyCPU.xap
+D:\Owner\Desktop\VB.NET\learning\Pocket Rockets\Pocket Rockets\obj\Debug\App.g.cs
+D:\Owner\Desktop\VB.NET\learning\Pocket Rockets\Pocket Rockets\obj\Debug\MainPage.g.cs
+D:\Owner\Desktop\VB.NET\learning\Pocket Rockets\Pocket Rockets\obj\Debug\Pocket Rockets.g.resources
+D:\Owner\Desktop\VB.NET\learning\Pocket Rockets\Pocket Rockets\obj\Debug\Pocket_Rockets.Resources.AppResources.resources
+D:\Owner\Desktop\VB.NET\learning\Pocket Rockets\Pocket Rockets\obj\Debug\Pocket Rockets.csproj.GenerateResource.Cache
+D:\Owner\Desktop\VB.NET\learning\Pocket Rockets\Pocket Rockets\obj\Debug\Pocket Rockets.dll
+D:\Owner\Desktop\VB.NET\learning\Pocket Rockets\Pocket Rockets\obj\Debug\Pocket Rockets.pdb
+D:\Owner\Desktop\VB.NET\learning\Pocket Rockets\Pocket Rockets\obj\Debug\XapCacheFile.xml
+D:\Owner\Desktop\VB.NET\learning\Pocket Rockets\Pocket Rockets\obj\Debug\StartMenu.g.cs

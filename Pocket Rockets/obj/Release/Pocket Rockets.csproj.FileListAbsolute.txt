@@ -1,0 +1,20 @@
+D:\Owner\Desktop\VB.NET\learning\Pocket Rockets\Pocket Rockets\Bin\Release\Assets\ApplicationIcon.png
+D:\Owner\Desktop\VB.NET\learning\Pocket Rockets\Pocket Rockets\Bin\Release\Assets\Tiles\FlipCycleTileLarge.png
+D:\Owner\Desktop\VB.NET\learning\Pocket Rockets\Pocket Rockets\Bin\Release\Assets\Tiles\FlipCycleTileMedium.png
+D:\Owner\Desktop\VB.NET\learning\Pocket Rockets\Pocket Rockets\Bin\Release\Assets\Tiles\FlipCycleTileSmall.png
+D:\Owner\Desktop\VB.NET\learning\Pocket Rockets\Pocket Rockets\Bin\Release\Assets\Tiles\IconicTileMediumLarge.png
+D:\Owner\Desktop\VB.NET\learning\Pocket Rockets\Pocket Rockets\Bin\Release\Assets\Tiles\IconicTileSmall.png
+D:\Owner\Desktop\VB.NET\learning\Pocket Rockets\Pocket Rockets\Bin\Release\Pocket Rockets.dll
+D:\Owner\Desktop\VB.NET\learning\Pocket Rockets\Pocket Rockets\Bin\Release\Pocket Rockets.pdb
+D:\Owner\Desktop\VB.NET\learning\Pocket Rockets\Pocket Rockets\Bin\Release\AppManifest.xaml
+D:\Owner\Desktop\VB.NET\learning\Pocket Rockets\Pocket Rockets\Bin\Release\Pocket_Rockets_Release_AnyCPU.xap
+D:\Owner\Desktop\VB.NET\learning\Pocket Rockets\Pocket Rockets\obj\Release\App.g.cs
+D:\Owner\Desktop\VB.NET\learning\Pocket Rockets\Pocket Rockets\obj\Release\MainPage.g.cs
+D:\Owner\Desktop\VB.NET\learning\Pocket Rockets\Pocket Rockets\obj\Release\StartMenu.g.cs
+D:\Owner\Desktop\VB.NET\learning\Pocket Rockets\Pocket Rockets\obj\Release\Pocket Rockets.g.resources
+D:\Owner\Desktop\VB.NET\learning\Pocket Rockets\Pocket Rockets\obj\Release\Pocket_Rockets.Resources.AppResources.resources
+D:\Owner\Desktop\VB.NET\learning\Pocket Rockets\Pocket Rockets\obj\Release\Pocket Rockets.csproj.GenerateResource.Cache
+D:\Owner\Desktop\VB.NET\learning\Pocket Rockets\Pocket Rockets\obj\Release\Pocket Rockets.dll
+D:\Owner\Desktop\VB.NET\learning\Pocket Rockets\Pocket Rockets\obj\Release\Pocket Rockets.pdb
+D:\Owner\Desktop\VB.NET\learning\Pocket Rockets\Pocket Rockets\obj\Release\XapCacheFile.xml
+D:\Owner\Desktop\VB.NET\learning\Pocket Rockets\Pocket Rockets\obj\Release\PlayerMode.g.cs
